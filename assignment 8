@@ -1,0 +1,3 @@
+In assingment 8 I thered a list of all computers in my domain. 
+I included Computer Name, Status (Active/Inactive), Create Date, Modify Date, Distinguished Name
+Then I exported the CSV file
